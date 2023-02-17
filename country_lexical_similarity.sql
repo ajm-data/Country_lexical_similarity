@@ -157,7 +157,6 @@ UPDATE all_language_pairs
 CREATE TABLE completed_join_worldlanguage_allpairs
 	(Country NVARCHAR(250),
 	 First_official NVARCHAR(250),
-	 Second_official NVARCHAR(250),
 	 LangName_1 NVARCHAR(250),
 	 LangName_2 NVARCHAR(250),
 	 Lexical_Similarity FLOAT,
